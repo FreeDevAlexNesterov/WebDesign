@@ -1,0 +1,13 @@
+/*!importantbody {
+    /*background: url("images/promo.jpg") no-repeat center center;
+    background: url(/images/promo.jpg) repeat-y #fc0;
+    background: linear-gradient(to bottom, rgba(212, 228, 239, 1) 0%, rgba(15, 40, 60, 0.85) 100%);
+}
+
+.promo {
+   		 margin: 0 auto;
+}*/
+
+header{
+	background : red;
+}
